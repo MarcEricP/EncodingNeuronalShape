@@ -3,13 +3,13 @@ Code for the article *Encoding neuronal shape in the stochastic dynamics of bran
 Tools for neuronal tree analysis and simulation, organized as two Python packages:
 
 - `DendroTree`: graph/tree utilities and morphology metrics
-- `SimulationTree`: 2D neuronal tree growth simulation code
+- `SimulationTree`: Simulation code for the growth of 2D sensory neurons
 
 ## Requirements
 
 - Linux or WSL on Windows is recommended
 - Python 3.10+ (3.12 tested)
-- `ffmpeg` for MP4 animation export
+- `ffmpeg` for MP4 animation export: <https://ffmpeg.org/download.html>
 
 ## Setup
 
@@ -58,7 +58,3 @@ MPLBACKEND=Agg python run_simulations/script_launch_simu_exploration.py
 ```
 
 Outputs are written to directories whose names start with `simulation_result`.
-
-## Notes
-
-- If MP4 export fails, install `ffmpeg`: <https://ffmpeg.org/download.html>
