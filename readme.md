@@ -1,9 +1,9 @@
 # EncodingNeuronalShape
-
+Code for the article *Encoding neuronal shape in the stochastic dynamics of branching processes.*
 Tools for neuronal tree analysis and simulation, organized as two Python packages:
 
 - `DendroTree`: graph/tree utilities and morphology metrics
-- `SimulationTree`: neuronal tree growth simulation code
+- `SimulationTree`: 2D neuronal tree growth simulation code
 
 ## Requirements
 
@@ -28,8 +28,6 @@ Install from local source (recommended order):
 pip install ./DendroTree
 pip install ./SimulationTree
 ```
-
-This uses each package's `pyproject.toml`.
 
 ## Run Simulations
 
@@ -64,4 +62,3 @@ Outputs are written to directories whose names start with `simulation_result`.
 ## Notes
 
 - If MP4 export fails, install `ffmpeg`: <https://ffmpeg.org/download.html>
-- On headless machines, keep `MPLBACKEND=Agg` in commands as shown above.
