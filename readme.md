@@ -8,7 +8,7 @@ Tools for neuronal tree analysis and simulation, organized as two Python package
 ## Requirements
 
 - Linux or WSL on Windows is recommended
-- Python 3.10+ (3.12 tested)
+- Python 3.10+ 
 - `ffmpeg` for MP4 animation export: <https://ffmpeg.org/download.html>
 
 ## Setup
