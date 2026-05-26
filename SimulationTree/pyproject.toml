@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "simulation-tree"
+version = "0.1.0"
+description = "Simulation toolkit for neuronal tree growth and branching."
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = [
+  "numpy",
+  "numba",
+  "scipy",
+  "matplotlib",
+  "tqdm",
+  "dendrotree",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
