@@ -7,6 +7,12 @@ Tools for neuronal tree analysis and simulation, organized as two Python package
 
 `DataAnalysis` contains the data and code used for statistical tests.
 
+## Table of contents
+
+- [Installation](#installation)
+- [Run Simulations of dendritic morphogenesis](#run-simulations-of-dendritic-morphogenesis)
+- [DataAnalysis](#dataanalysis)
+
 ## Installation
 
 ### Requirements
