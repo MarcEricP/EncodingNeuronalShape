@@ -1,0 +1,8 @@
+class,hour,n_phase_on,n_phase_off,von,voff,kon,koff,drift,drift_95CI,drift_p,drift_p_test,drift_p_sidedness,drift_p_hypothesis,D
+class_I,13h,65,70,1.2 ± 0.165,0.575 ± 0.0497,0.527 ± 0.049,0.653 ± 0.0647,0.216 ± 0.0987,"[0.0228, 0.41]",0.0285,Wald z-test (normal approximation),two-sided,H0: drift = 0,0.658 ± 0.137
+class_I,16h,92,91,1.53 ± 0.112,1.17 ± 0.101,0.637 ± 0.0548,0.844 ± 0.0753,-0.0126 ± 0.111,"[-0.23, 0.205]",0.91,Wald z-test (normal approximation),two-sided,H0: drift = 0,1.21 ± 0.158
+class_I,18h,315,333,1.08 ± 0.0529,0.758 ± 0.0351,0.462 ± 0.0219,0.691 ± 0.0309,-0.0201 ± 0.0415,"[-0.101, 0.0613]",0.628,Wald z-test (normal approximation),two-sided,H0: drift = 0,0.706 ± 0.0553
+class_I,20h,209,218,0.755 ± 0.0538,0.535 ± 0.0309,0.506 ± 0.0271,0.703 ± 0.0337,0.00508 ± 0.0366,"[-0.0667, 0.0768]",0.89,Wald z-test (normal approximation),two-sided,H0: drift = 0,0.335 ± 0.0347
+class_IV,16h,67,65,1.25 ± 0.109,1.03 ± 0.0871,0.776 ± 0.0618,0.797 ± 0.0791,0.0985 ± 0.1,"[-0.0984, 0.295]",0.327,Wald z-test (normal approximation),two-sided,H0: drift = 0,0.827 ± 0.114
+class_IV,18h,911,915,1.16 ± 0.0295,1.08 ± 0.0307,0.652 ± 0.0189,0.653 ± 0.0173,0.0406 ± 0.0306,"[-0.0194, 0.101]",0.185,Wald z-test (normal approximation),two-sided,H0: drift = 0,0.964 ± 0.0412
+class_IV,20h,741,749,1.17 ± 0.0311,1.12 ± 0.0316,0.692 ± 0.0215,0.689 ± 0.0196,0.0316 ± 0.0328,"[-0.0326, 0.0958]",0.334,Wald z-test (normal approximation),two-sided,H0: drift = 0,0.949 ± 0.0418

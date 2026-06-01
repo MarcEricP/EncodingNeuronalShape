@@ -20,13 +20,12 @@ conda create -n neuronal_shape python=3.12
 conda activate neuronal_shape
 ```
 
-## Install Packages
-
-Install from local source (recommended order):
+Go to the repository and install in this order:
 
 ```bash
 pip install ./DendroTree
 pip install ./SimulationTree
+pip install ./DataAnalysis
 ```
 
 ## Run Simulations

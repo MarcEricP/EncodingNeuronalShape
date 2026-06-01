@@ -1,0 +1,4 @@
+Neuron class,Number of neurons/acquisitions,Time range,Number of time points,Slope ± SE (1/µm/min^2),Slope 95% CI,One-sided Wald t-test on slope  (H0: slope >= 0) p-value
+Wild type class I,7,16 h AEL - 21 h AEL,299,-4.64e-05 ± 1.8e-05,"[-9.03e-05, -2.46e-06]",p = 0.02078
+Wild type class IV,5,16 h AEL - 21 h AEL,299,-3.59e-05 ± 9.44e-06,"[-6.21e-05, -9.72e-06]",p = 0.0095
+Microtubule inhibited class IV,4,16 h AEL - 21 h AEL,299,-2.45e-05 ± 5.87e-06,"[-4.32e-05, -5.86e-06]",p = 0.01247

@@ -1,0 +1,397 @@
+{
+  "meta": {
+    "metrics_to_plot": [
+      "total_length",
+      "semi-minor_axis",
+      "semi-major_axis",
+      "ellipse_aspect_ratio",
+      "number_of_branches",
+      "density"
+    ],
+    "t_range": [
+      0,
+      300
+    ],
+    "class_counts": {
+      "class_I": 7,
+      "class_IV": 5,
+      "class_IV_MT_inh": 4,
+      "class_IV_mt_inh": 0
+    },
+    "cache_version": 1
+  },
+  "results": [
+    {
+      "class_key": "class_I",
+      "class_label": "cI",
+      "metric_key": "total_length",
+      "fit_type": "piecewise",
+      "n_neurons": 7,
+      "status": "ok",
+      "linear": null,
+      "piecewise": {
+        "n_breakpoints": 1,
+        "alphas": [
+          {
+            "estimate": 0.40729664463385856,
+            "se": 0.012020944593370029
+          },
+          {
+            "estimate": -0.06188068776313216,
+            "se": 0.011062122048324276
+          }
+        ],
+        "breakpoints": [
+          {
+            "estimate": 274.45158885498455,
+            "se": 3.9167052962960773
+          }
+        ]
+      }
+    },
+    {
+      "class_key": "class_I",
+      "class_label": "cI",
+      "metric_key": "semi-minor_axis",
+      "fit_type": "piecewise",
+      "n_neurons": 7,
+      "status": "ok",
+      "linear": null,
+      "piecewise": {
+        "n_breakpoints": 2,
+        "alphas": [
+          {
+            "estimate": 0.00159222153317791,
+            "se": 0.0006417669890586399
+          },
+          {
+            "estimate": 0.011964286425453647,
+            "se": 0.0004654034166699663
+          },
+          {
+            "estimate": 0.0031795233973233115,
+            "se": 0.0005979420661784914
+          }
+        ],
+        "breakpoints": [
+          {
+            "estimate": 191.95474224633978,
+            "se": 7.3321080923320165
+          },
+          {
+            "estimate": 347.6314618336139,
+            "se": 7.046487618660078
+          }
+        ]
+      }
+    },
+    {
+      "class_key": "class_I",
+      "class_label": "cI",
+      "metric_key": "semi-major_axis",
+      "fit_type": "piecewise",
+      "n_neurons": 7,
+      "status": "ok",
+      "linear": null,
+      "piecewise": {
+        "n_breakpoints": 1,
+        "alphas": [
+          {
+            "estimate": 0.03962847940806097,
+            "se": 0.003329515054716154
+          },
+          {
+            "estimate": 0.00042991971766161846,
+            "se": 0.0011085550025882569
+          }
+        ],
+        "breakpoints": [
+          {
+            "estimate": 199.39060170002878,
+            "se": 9.443551820037028
+          }
+        ]
+      }
+    },
+    {
+      "class_key": "class_I",
+      "class_label": "cI",
+      "metric_key": "ellipse_aspect_ratio",
+      "fit_type": "piecewise",
+      "n_neurons": 7,
+      "status": "ok",
+      "linear": null,
+      "piecewise": {
+        "n_breakpoints": 2,
+        "alphas": [
+          {
+            "estimate": 0.006934251548369222,
+            "se": 0.0007717174246716905
+          },
+          {
+            "estimate": -0.014391648845029968,
+            "se": 0.0014597293624683517
+          },
+          {
+            "estimate": -0.0024086645488708095,
+            "se": 0.0004642862687507213
+          }
+        ],
+        "breakpoints": [
+          {
+            "estimate": 198.94647521340667,
+            "se": 4.967618549606838
+          },
+          {
+            "estimate": 287.0217345852234,
+            "se": 7.47943204709788
+          }
+        ]
+      }
+    },
+    {
+      "class_key": "class_I",
+      "class_label": "cI",
+      "metric_key": "number_of_branches",
+      "fit_type": "piecewise",
+      "n_neurons": 7,
+      "status": "ok",
+      "linear": null,
+      "piecewise": {
+        "n_breakpoints": 2,
+        "alphas": [
+          {
+            "estimate": 0.13714119705285407,
+            "se": 0.005053120501220084
+          },
+          {
+            "estimate": -0.005824403339931089,
+            "se": 0.011514956889325086
+          },
+          {
+            "estimate": -0.0816964404974997,
+            "se": 0.004716069979483669
+          }
+        ],
+        "breakpoints": [
+          {
+            "estimate": 223.3532442351565,
+            "se": 5.418111490121072
+          },
+          {
+            "estimate": 314.67531117034895,
+            "se": 9.94470516408869
+          }
+        ]
+      }
+    },
+    {
+      "class_key": "class_I",
+      "class_label": "cI",
+      "metric_key": "density",
+      "fit_type": "piecewise",
+      "n_neurons": 7,
+      "status": "ok",
+      "linear": null,
+      "piecewise": {
+        "n_breakpoints": 1,
+        "alphas": [
+          {
+            "estimate": 0.0016151739449083585,
+            "se": 0.0002374293205738615
+          },
+          {
+            "estimate": -0.0005367004778001176,
+            "se": 1.572536292316534e-05
+          }
+        ],
+        "breakpoints": [
+          {
+            "estimate": 91.44173054169161,
+            "se": 6.2179045118335425
+          }
+        ]
+      }
+    },
+    {
+      "class_key": "class_IV",
+      "class_label": "cIV",
+      "metric_key": "total_length",
+      "fit_type": "linear",
+      "n_neurons": 5,
+      "status": "ok",
+      "linear": {
+        "slope": 1.2119078138535035,
+        "slope_se": 0.0115094112927936,
+        "pvalue": 0.0,
+        "r2": 0.880973972333989
+      },
+      "piecewise": null
+    },
+    {
+      "class_key": "class_IV",
+      "class_label": "cIV",
+      "metric_key": "semi-minor_axis",
+      "fit_type": "linear",
+      "n_neurons": 5,
+      "status": "ok",
+      "linear": {
+        "slope": 0.034200478611791076,
+        "slope_se": 0.00043392495076164273,
+        "pvalue": 0.0,
+        "r2": 0.8057081987553424
+      },
+      "piecewise": null
+    },
+    {
+      "class_key": "class_IV",
+      "class_label": "cIV",
+      "metric_key": "semi-major_axis",
+      "fit_type": "linear",
+      "n_neurons": 5,
+      "status": "ok",
+      "linear": {
+        "slope": 0.049396715241598124,
+        "slope_se": 0.0009160447874214018,
+        "pvalue": 0.0,
+        "r2": 0.6599927110429674
+      },
+      "piecewise": null
+    },
+    {
+      "class_key": "class_IV",
+      "class_label": "cIV",
+      "metric_key": "ellipse_aspect_ratio",
+      "fit_type": "linear",
+      "n_neurons": 5,
+      "status": "ok",
+      "linear": {
+        "slope": 0.00012137434537372239,
+        "slope_se": 6.655057197368695e-05,
+        "pvalue": 0.06838281335497347,
+        "r2": 0.0022155173153027134
+      },
+      "piecewise": null
+    },
+    {
+      "class_key": "class_IV",
+      "class_label": "cIV",
+      "metric_key": "number_of_branches",
+      "fit_type": "linear",
+      "n_neurons": 5,
+      "status": "ok",
+      "linear": {
+        "slope": 0.2509076323070257,
+        "slope_se": 0.004261681403087025,
+        "pvalue": 0.0,
+        "r2": 0.6982452973055546
+      },
+      "piecewise": null
+    },
+    {
+      "class_key": "class_IV",
+      "class_label": "cIV",
+      "metric_key": "density",
+      "fit_type": "linear",
+      "n_neurons": 5,
+      "status": "ok",
+      "linear": {
+        "slope": -0.0006348237034746738,
+        "slope_se": 1.706142479964537e-05,
+        "pvalue": 3.718690795291852e-215,
+        "r2": 0.4803022949829159
+      },
+      "piecewise": null
+    },
+    {
+      "class_key": "class_IV_MT_inh",
+      "class_label": "cIV MT inh",
+      "metric_key": "total_length",
+      "fit_type": "linear",
+      "n_neurons": 4,
+      "status": "ok",
+      "linear": {
+        "slope": 0.5499655005037838,
+        "slope_se": 0.031868223991437614,
+        "pvalue": 9.003156519847043e-60,
+        "r2": 0.19910197809069038
+      },
+      "piecewise": null
+    },
+    {
+      "class_key": "class_IV_MT_inh",
+      "class_label": "cIV MT inh",
+      "metric_key": "semi-minor_axis",
+      "fit_type": "linear",
+      "n_neurons": 4,
+      "status": "ok",
+      "linear": {
+        "slope": 0.009654697601890999,
+        "slope_se": 0.0008993954829283542,
+        "pvalue": 9.914507196076662e-26,
+        "r2": 0.08774739667468882
+      },
+      "piecewise": null
+    },
+    {
+      "class_key": "class_IV_MT_inh",
+      "class_label": "cIV MT inh",
+      "metric_key": "semi-major_axis",
+      "fit_type": "linear",
+      "n_neurons": 4,
+      "status": "ok",
+      "linear": {
+        "slope": 0.023573179468985673,
+        "slope_se": 0.001627836377385364,
+        "pvalue": 6.466080548357074e-44,
+        "r2": 0.14897118528019299
+      },
+      "piecewise": null
+    },
+    {
+      "class_key": "class_IV_MT_inh",
+      "class_label": "cIV MT inh",
+      "metric_key": "ellipse_aspect_ratio",
+      "fit_type": "linear",
+      "n_neurons": 4,
+      "status": "ok",
+      "linear": {
+        "slope": 0.00017620795159288812,
+        "slope_se": 8.874318119786798e-05,
+        "pvalue": 0.04730606388897656,
+        "r2": 0.0032801771344731193
+      },
+      "piecewise": null
+    },
+    {
+      "class_key": "class_IV_MT_inh",
+      "class_label": "cIV MT inh",
+      "metric_key": "number_of_branches",
+      "fit_type": "linear",
+      "n_neurons": 4,
+      "status": "ok",
+      "linear": {
+        "slope": 0.16365415171279682,
+        "slope_se": 0.007137383818347651,
+        "pvalue": 9.285346884769088e-97,
+        "r2": 0.3050020002084189
+      },
+      "piecewise": null
+    },
+    {
+      "class_key": "class_IV_MT_inh",
+      "class_label": "cIV MT inh",
+      "metric_key": "density",
+      "fit_type": "linear",
+      "n_neurons": 4,
+      "status": "ok",
+      "linear": {
+        "slope": -5.4611955656102155e-05,
+        "slope_se": 2.4066384339000963e-05,
+        "pvalue": 0.02343205182894461,
+        "r2": 0.004279905846789426
+      },
+      "piecewise": null
+    }
+  ]
+}

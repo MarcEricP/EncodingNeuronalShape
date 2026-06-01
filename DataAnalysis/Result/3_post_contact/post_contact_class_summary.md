@@ -1,0 +1,4 @@
+| Neuronal class | Number of trajectories | Mean memory time (min) | 95% CI for memory time (min) (Bootstrap 200 rep) | Memory time standard error from CI (min) | Mean displacement at memory time κ (µm) | Mean displacement at memory time κ 95% CI (µm) (mean ± SE) |
+| --- | --- | --- | --- | --- | --- | --- |
+| Class I | 127 from 7 neurons | 3.0 | [3.0,10.025000000000006] | 1.7920918367346954 | -1.0675627897528503 | [-1.1991759339708212, -0.9359496455348781] |
+| Class IV | 79 from 5 neurons | 5.0 | [3.0,12.0] | 2.295918367346939 | -1.680180762289865 | [-2.01295767449244, -1.3474038500872918] |

@@ -1,0 +1,17 @@
+class,acquisition,alpha_global
+class_I,23.11.23 221NG overnight 30s Roper_movie-1,0.4483854148282059
+class_I,23.11.24 221NG overnight 30s Roper_movie-1,0.286138878884621
+class_I,23.11.24 221NG overnight 30s Roper_movie-2,0.3825743169472047
+class_I,23.12.07 221NG overnight 30s-cut_1,0.7306234187830808
+class_I,23.12.07 221NG overnight 30s-cut_2,0.46508216342766884
+class_I,24.12.10 221 overnight 1 min_1,0.39607104125893033
+class_I,24.12.10 221 overnight 1 min_2,0.4640848468163798
+class_IV,MAX_23-10-19-ppkIII_ddaC_A6_1m_8h,0.7354530817815869
+class_IV,MAX_23-11-15--ppkIII_v_ada_A2_30s_6h,1.0738855698897658
+class_IV,MAX_24-03-02--ppkIII_ddaC_e3_A4_1min_10h_t1,1.0253564810398772
+class_IV,MAX_24-03-06--ppkIII_ddaC_e1_A4_1m_10h_t1.tif,1.2757844187781506
+class_IV,MAX_24-03-22--ppkIII_ddaC_e2_A3_30s_7h_t1,0.8655831165557002
+class_IV_MT_inh,MAX_25-02-24-ppkGFP-DlgRFP-e1_A5_1min-8h_Cropped,0.8565984999502688
+class_IV_MT_inh,MAX_25-02-27--ppkGFP_dlgRFP_Col-Vinb-e1_A4_1min-8h,0.578097447337414
+class_IV_MT_inh,MAX_25-03-03--ppkGFP_dlgRFP_Col-Vinb-e1_A3_1min-10h_Cropped,0.5254723627228152
+class_IV_MT_inh,MAX_25-05-02-ppk-Dlg_InjVinB-Col_e1_A4_1min_10h_w1CSU 491,0.650445826170569

@@ -1,0 +1,8 @@
+| Morphometric metric | Number of neurons | Fit model | Time Range | Number of time points | Slope ± SE | Slope 95% CI | Wald t-test two-sided p-value (H0: slope = 0) | Linear fit R squared |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Total length (µm) | 5 | OLS linear model | 16 h AEL - 21 h AEL | 300 | 1.2 ± 0.012 | [1.19, 1.23] | p < 0.001 | 0.88 |
+| Semi-minor axis (µm) | 5 | OLS linear model | 16 h AEL - 21 h AEL | 300 | 0.034 ± 0.00043 | [0.0333, 0.0351] | p < 0.001 | 0.81 |
+| Semi-major axis (µm) | 5 | OLS linear model | 16 h AEL - 21 h AEL | 300 | 0.049 ± 0.00092 | [0.0476, 0.0512] | p < 0.001 | 0.66 |
+| Aspect ratio | 5 | OLS linear model | 16 h AEL - 21 h AEL | 300 | 0.00012 ± 6.7e-05 | [-9.06e-06, 0.000252] | p = 0.068 | 0.0022 |
+| Branching points # | 5 | OLS linear model | 16 h AEL - 21 h AEL | 300 | 0.25 ± 0.0043 | [0.243, 0.259] | p < 0.001 | 0.7 |
+| Density ($µm^{-1}$) | 5 | OLS linear model | 16 h AEL - 21 h AEL | 300 | -0.00063 ± 1.7e-05 | [-0.000668, -0.000601] | p < 0.001 | 0.48 |

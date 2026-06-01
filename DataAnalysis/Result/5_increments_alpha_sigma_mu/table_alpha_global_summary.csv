@@ -1,0 +1,4 @@
+cls,class_label,n_alpha_global,alpha_global_mean,alpha_global_std,alpha_global_ci95_low,alpha_global_ci95_high,alpha_test_name,alpha_test_stat_t,alpha_test_df,alpha_test_h0,alpha_test_sidedness,p_alpha_global_ne_1
+class_I,WT cI,7,0.4532800115637274,0.13748192464617226,0.3261304380841332,0.5804295850433215,One-sample t-test against 1,-10.521274923326866,6.0,H0: mean alpha = 1,two-sided,4.331902979220863e-05
+class_IV,WT cIV,5,0.9952125336090161,0.20621435784819744,0.7391635895562014,1.2512614776618307,One-sample t-test against 1,-0.051912487578173884,4.0,H0: mean alpha = 1,two-sided,0.9610874781285724
+class_IV_MT_inh,MT inh cIV,4,0.6526535340452668,0.1452951977827578,0.4214564513656653,0.8838506167248683,One-sample t-test against 1,-4.781251841152769,3.0,H0: mean alpha = 1,two-sided,0.017392304650257432
